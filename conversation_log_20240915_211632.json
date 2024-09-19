@@ -1,0 +1,7 @@
+[
+    {
+        "user_message": "Which method is used to load a mesh file in PyChrono? 'A. LoadMesh()', 'B. LoadWavefrontMesh()', 'C. ImportMesh()', 'D. AddMesh()'",
+        "model_1_response": "The correct answer is 'B. LoadWavefrontMesh()'. This method is specifically designed to load mesh files in PyChrono.",
+        "model_2_response": "In PyChrono, the method used to load a mesh file is **B. LoadWavefrontMesh()**. This function is specifically designed to import mesh data from Wavefront OBJ files."
+    }
+]

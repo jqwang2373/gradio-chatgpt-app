@@ -1,0 +1,12 @@
+[
+    {
+        "user_message": "How are you?",
+        "model_1_response": "I'm just a bunch of code, but thanks for asking! How can I assist you today?",
+        "model_2_response": "I'm just a program, so I don't have feelings, but I'm here and ready to help you! How can I assist you today?"
+    },
+    {
+        "user_message": "Super good!",
+        "model_1_response": "I'm glad to hear that! How can I assist you further today?",
+        "model_2_response": "Thank you! I'm glad to hear that! How can I assist you today?"
+    }
+]

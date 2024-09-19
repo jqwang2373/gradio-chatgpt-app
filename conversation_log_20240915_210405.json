@@ -1,0 +1,7 @@
+[
+    {
+        "user_message": "Which method is used to create an ART vehicle in PyChrono? 'A. veh.CreateVehicle(ART)', 'B. veh.ARTcar()', 'C. veh.NewVehicle(ART)', 'D. veh.InitializeVehicle(ART)'",
+        "model_1_response": "The correct answer is 'A. veh.CreateVehicle(ART)'. This method is used to instantiate an ART vehicle in PyChrono.",
+        "model_2_response": "The correct method to create an ART vehicle in PyChrono is **A. veh.CreateVehicle(ART)**."
+    }
+]

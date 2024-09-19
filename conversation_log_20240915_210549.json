@@ -1,0 +1,7 @@
+[
+    {
+        "user_message": "What class is used to create a physical system in PyChrono? 'A. ChSystem', 'B. ChSystemSMC', 'C. ChSystemDynamics', 'D. ChPhysicalSystem'",
+        "model_1_response": "The correct answer is 'B. ChSystemSMC'. This class is specifically designed for creating a physical system in PyChrono, especially for simulations involving smooth contact dynamics.",
+        "model_2_response": "In PyChrono, the class used to create a physical system is **'A. ChSystem'**. This class serves as the base for creating and managing the simulation of a physical system."
+    }
+]

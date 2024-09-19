@@ -1,0 +1,12 @@
+[
+    {
+        "user_message": "What operator is used to calculate the cross product of two vectors in PyChrono? 'A. *', 'B. +', 'C. %', 'D. ^'",
+        "model_1_response": "D. ^",
+        "model_2_response": "In PyChrono, the operator used to calculate the cross product of two vectors is 'D. ^'."
+    },
+    {
+        "user_message": "Which method is used to compute the length of a vector in PyChrono? 'A. Length()', 'B. GetLength()', 'C. Magnitude()', 'D. Norm()'",
+        "model_1_response": "The correct answer is A. Length(). The method Length() is used to compute the length of a vector in PyChrono.",
+        "model_2_response": "In PyChrono, the method used to compute the length of a vector is **'B. GetLength()'**."
+    }
+]

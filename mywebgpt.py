@@ -36,7 +36,7 @@ async def make_completion(messages:List[Message], nb_retries:int=3, delay:int=30
                         resp = await aio_client.post(
                             url = "https://api.openai.com/v1/chat/completions",
                             json = {
-                                "model": "gpt-3.5-turbo",
+                                "model": "ft:gpt-4o-mini-2024-07-18:uw-sbel::A6Rd900h",
                                 "messages": messages
                             }
                         )
@@ -75,4 +75,4 @@ with gr.Blocks() as demo:
         txt = gr.Textbox(show_label=False, placeholder="Enter text and press enter").style(container=False)
     txt.submit(predict, [txt, state], [chatbot, state])
 
-demo.launch(server_port=8080)
+demo.launch(server_port=8080,share=True)

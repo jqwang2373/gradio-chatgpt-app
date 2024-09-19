@@ -1,0 +1,7 @@
+[
+    {
+        "user_message": "Which method is used to compute the derivative of a custom function in PyChrono? 'A. GetDerivative()', 'B. GetDer()', 'C. Derivative()', 'D. ComputeDerivative()'",
+        "model_1_response": "The correct answer is B. GetDer(). In PyChrono, the method GetDer() is used to compute the derivative of a custom function.",
+        "model_2_response": "In PyChrono, the method used to compute the derivative of a custom function is **'A. GetDerivative()'**."
+    }
+]

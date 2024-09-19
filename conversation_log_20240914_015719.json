@@ -1,0 +1,10 @@
+[
+    {
+        "user_message": "HI!",
+        "bot_response": "Hello! How can I assist you today?"
+    },
+    {
+        "user_message": "What's  your name?",
+        "bot_response": "I'm just a chatbot, but you can call me whatever you'd like! How can I help you today?"
+    }
+]

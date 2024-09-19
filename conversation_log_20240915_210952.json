@@ -1,0 +1,7 @@
+[
+    {
+        "user_message": "Which library is used for rendering the simulation visually in PyChrono? 'A. matplotlib', 'B. OpenGL', 'C. irrlicht', 'D. pygame'\"",
+        "model_1_response": "C. irrlicht",
+        "model_2_response": "The library used for rendering the simulation visually in PyChrono is **C. irrlicht**."
+    }
+]
